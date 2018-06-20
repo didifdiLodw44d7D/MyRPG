@@ -1,0 +1,11 @@
+D:\vs2018\MyRPG\MyRPG\bin\Debug\MyRPG.exe.config
+D:\vs2018\MyRPG\MyRPG\bin\Debug\MyRPG.exe
+D:\vs2018\MyRPG\MyRPG\bin\Debug\MyRPG.pdb
+D:\vs2018\MyRPG\MyRPG\obj\Debug\MyRPG.csprojResolveAssemblyReference.cache
+D:\vs2018\MyRPG\MyRPG\obj\Debug\MyRPG.Form1.resources
+D:\vs2018\MyRPG\MyRPG\obj\Debug\MyRPG.Properties.Resources.resources
+D:\vs2018\MyRPG\MyRPG\obj\Debug\MyRPG.csproj.GenerateResource.Cache
+D:\vs2018\MyRPG\MyRPG\obj\Debug\MyRPG.csproj.CoreCompileInputs.cache
+D:\vs2018\MyRPG\MyRPG\obj\Debug\MyRPG.exe
+D:\vs2018\MyRPG\MyRPG\obj\Debug\MyRPG.pdb
+D:\vs2018\MyRPG\MyRPG\obj\Debug\MyRPG.Form2.resources
